@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Map on 不见长安</title>
-    <link>https://purseu.github.io/gemc-blog/tags/map/</link>
+    <link>https://www.gemc.club/tags/map/</link>
     <description>Recent content in Map on 不见长安</description>
     <image>
-      <url>https://purseu.github.io/gemc-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://purseu.github.io/gemc-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.gemc.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.gemc.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Oct 2021 19:13:27 +0800</lastBuildDate><atom:link href="https://purseu.github.io/gemc-blog/tags/map/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Oct 2021 19:13:27 +0800</lastBuildDate><atom:link href="https://www.gemc.club/tags/map/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go_map</title>
-      <link>https://purseu.github.io/gemc-blog/posts/go_map/</link>
+      <link>https://www.gemc.club/posts/go_map/</link>
       <pubDate>Tue, 05 Oct 2021 19:13:27 +0800</pubDate>
       
-      <guid>https://purseu.github.io/gemc-blog/posts/go_map/</guid>
+      <guid>https://www.gemc.club/posts/go_map/</guid>
       <description>map是一个哈希表。</description>
     </item>
     
