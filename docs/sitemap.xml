@@ -2,65 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.gemc.club/categories/</loc>
+    <loc>https://purseu.github.io/gemc-blog/categories/</loc>
     <lastmod>2021-10-05T19:13:27+08:00</lastmod>
   </url><url>
-    <loc>https://www.gemc.club/categories/go/</loc>
+    <loc>https://purseu.github.io/gemc-blog/categories/go/</loc>
     <lastmod>2021-10-05T19:13:27+08:00</lastmod>
   </url><url>
-    <loc>https://www.gemc.club/posts/go_map/</loc>
+    <loc>https://purseu.github.io/gemc-blog/posts/go_map/</loc>
     <lastmod>2021-10-05T19:13:27+08:00</lastmod>
   </url><url>
-    <loc>https://www.gemc.club/tags/golang/</loc>
+    <loc>https://purseu.github.io/gemc-blog/tags/golang/</loc>
     <lastmod>2021-10-05T19:13:27+08:00</lastmod>
   </url><url>
-    <loc>https://www.gemc.club/tags/map/</loc>
+    <loc>https://purseu.github.io/gemc-blog/tags/map/</loc>
     <lastmod>2021-10-05T19:13:27+08:00</lastmod>
   </url><url>
-    <loc>https://www.gemc.club/categories/map/</loc>
+    <loc>https://purseu.github.io/gemc-blog/categories/map/</loc>
     <lastmod>2021-10-05T19:13:27+08:00</lastmod>
   </url><url>
-    <loc>https://www.gemc.club/posts/</loc>
+    <loc>https://purseu.github.io/gemc-blog/posts/</loc>
     <lastmod>2021-10-05T19:13:27+08:00</lastmod>
   </url><url>
-    <loc>https://www.gemc.club/tags/</loc>
+    <loc>https://purseu.github.io/gemc-blog/tags/</loc>
     <lastmod>2021-10-05T19:13:27+08:00</lastmod>
   </url><url>
-    <loc>https://www.gemc.club/</loc>
+    <loc>https://purseu.github.io/gemc-blog/</loc>
     <lastmod>2021-10-05T19:13:27+08:00</lastmod>
   </url><url>
-    <loc>https://www.gemc.club/tags/javascript/</loc>
+    <loc>https://purseu.github.io/gemc-blog/tags/javascript/</loc>
     <lastmod>2021-10-04T21:36:42+08:00</lastmod>
   </url><url>
-    <loc>https://www.gemc.club/tags/typescript/</loc>
+    <loc>https://purseu.github.io/gemc-blog/tags/typescript/</loc>
     <lastmod>2021-10-04T21:36:42+08:00</lastmod>
   </url><url>
-    <loc>https://www.gemc.club/categories/typescript/</loc>
+    <loc>https://purseu.github.io/gemc-blog/categories/typescript/</loc>
     <lastmod>2021-10-04T21:36:42+08:00</lastmod>
   </url><url>
-    <loc>https://www.gemc.club/posts/typescript_base/</loc>
+    <loc>https://purseu.github.io/gemc-blog/posts/typescript_base/</loc>
     <lastmod>2021-10-04T21:36:42+08:00</lastmod>
   </url><url>
-    <loc>https://www.gemc.club/categories/web/</loc>
+    <loc>https://purseu.github.io/gemc-blog/categories/web/</loc>
     <lastmod>2021-10-04T21:36:42+08:00</lastmod>
   </url><url>
-    <loc>https://www.gemc.club/tags/go/</loc>
+    <loc>https://purseu.github.io/gemc-blog/tags/go/</loc>
     <lastmod>2021-10-04T10:53:18+08:00</lastmod>
   </url><url>
-    <loc>https://www.gemc.club/posts/go_slice/</loc>
+    <loc>https://purseu.github.io/gemc-blog/posts/go_slice/</loc>
     <lastmod>2021-10-04T10:53:18+08:00</lastmod>
   </url><url>
-    <loc>https://www.gemc.club/categories/golang/</loc>
+    <loc>https://purseu.github.io/gemc-blog/categories/golang/</loc>
     <lastmod>2021-10-04T10:53:18+08:00</lastmod>
   </url><url>
-    <loc>https://www.gemc.club/tags/slice/</loc>
+    <loc>https://purseu.github.io/gemc-blog/tags/slice/</loc>
     <lastmod>2021-10-04T10:53:18+08:00</lastmod>
   </url><url>
-    <loc>https://www.gemc.club/categories/slice/</loc>
+    <loc>https://purseu.github.io/gemc-blog/categories/slice/</loc>
     <lastmod>2021-10-04T10:53:18+08:00</lastmod>
   </url><url>
-    <loc>https://www.gemc.club/archives/</loc>
+    <loc>https://purseu.github.io/gemc-blog/archives/</loc>
   </url><url>
-    <loc>https://www.gemc.club/search/</loc>
+    <loc>https://purseu.github.io/gemc-blog/search/</loc>
   </url>
 </urlset>
