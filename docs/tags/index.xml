@@ -4,6 +4,10 @@
     <title>Tags on 不见长安</title>
     <link>https://purseu.github.io/gemc-blog/tags/</link>
     <description>Recent content in Tags on 不见长安</description>
+    <image>
+      <url>https://purseu.github.io/gemc-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://purseu.github.io/gemc-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://purseu.github.io/gemc-blog/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>

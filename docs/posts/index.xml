@@ -4,6 +4,10 @@
     <title>Posts on 不见长安</title>
     <link>https://purseu.github.io/gemc-blog/posts/</link>
     <description>Recent content in Posts on 不见长安</description>
+    <image>
+      <url>https://purseu.github.io/gemc-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://purseu.github.io/gemc-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Oct 2021 17:49:47 +0800</lastBuildDate><atom:link href="https://purseu.github.io/gemc-blog/posts/index.xml" rel="self" type="application/rss+xml" />

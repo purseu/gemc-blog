@@ -2,3 +2,143 @@ baseURL = 'https://purseu.github.io/gemc-blog/'
 languageCode = 'en-us'
 title = '不见长安'
 theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+googleAnalytics = "UA-209321245-1"
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+[outputs]
+  home = [ "HTML", "RSS", "JSON" ]
+
+[params]
+  env = "production"
+  title = "不见长安"
+  description = "这里只是记录一下生活随笔和简陋的笔记。"
+  keywords = [ "Blog", "Portfolio", "PaperMod" ]
+  author = "Gemc"
+  images = [ "<link or path of image for opengraph, twitter-cards>" ]
+  DateFormat = "2006-01-02 15:04:05 MST Mon"
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = true
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+  [params.assets]
+    favicon = "<link / abs url>"
+    favicon16x16 = "<link / abs url>"
+    favicon32x32 = "<link / abs url>"
+    apple_touch_icon = "<link / abs url>"
+    safari_pinned_tab = "<link / abs url>"
+
+  [params.label]
+    text = "不见长安"
+    # icon = "/apple-touch-icon.png"
+    iconHeight = 35
+
+  [params.profileMode]
+    enabled = false
+    title = "ExampleSite"
+    subtitle = "This is subtitle"
+    imageUrl = "<img location>"
+    imageWidth = 120
+    imageHeight = 120
+    imageTitle = "my image"
+
+    [[params.profileMode.buttons]]
+      name = "Posts"
+      url = "posts"
+
+    [[params.profileMode.buttons]]
+      name = "Tags"
+      url = "tags"
+
+  [params.homeInfoParams]
+    Title = "君不见长安"
+    Content = "Welcome to my blog."
+
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/"
+
+  [[params.socialIcons]]
+    name = "stackoverflow"
+    url = "https://stackoverflow.com"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/"
+
+[params.analytics.google]
+  SiteVerificationTag = "XYZabc"
+
+[params.analytics.bing]
+  SiteVerificationTag = "XYZabc"
+
+[params.analytics.yandex]
+  SiteVerificationTag = "XYZabc"
+
+[params.cover]
+  hidden = true
+  hiddenInList = true
+  hiddenInSingle = true
+
+[params.editPost]
+  URL = "https://purseu.github.io/Blog"
+  Text = "Suggest Changes"
+  appendFilePath = true
+
+[params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = [ "title", "permalink", "summary", "content" ]
+
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "categories"
+  name = "Categories"
+  url = "/categories/"
+  weight = 15
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "archives"
+  name = "Archives"
+  url = "/archives/"
+  weight = 25
+
+[[menu.main]]
+  identifier = "search"
+  name = "Search"
+  url = "/search/"
+  weight = 30
