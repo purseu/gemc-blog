@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Oct 2021 21:36:42 +0800</lastBuildDate><atom:link href="https://purseu.github.io/gemc-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Oct 2021 19:13:27 +0800</lastBuildDate><atom:link href="https://purseu.github.io/gemc-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go_map</title>
+      <link>https://purseu.github.io/gemc-blog/posts/go_map/</link>
+      <pubDate>Tue, 05 Oct 2021 19:13:27 +0800</pubDate>
+      
+      <guid>https://purseu.github.io/gemc-blog/posts/go_map/</guid>
+      <description>map是一个哈希表。</description>
+    </item>
+    
     <item>
       <title>Typescript基本知识</title>
       <link>https://purseu.github.io/gemc-blog/posts/typescript_base/</link>

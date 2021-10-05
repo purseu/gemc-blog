@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Oct 2021 21:36:42 +0800</lastBuildDate><atom:link href="https://purseu.github.io/gemc-blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Oct 2021 19:13:27 +0800</lastBuildDate><atom:link href="https://purseu.github.io/gemc-blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GoLang</title>
+      <link>https://purseu.github.io/gemc-blog/tags/golang/</link>
+      <pubDate>Tue, 05 Oct 2021 19:13:27 +0800</pubDate>
+      
+      <guid>https://purseu.github.io/gemc-blog/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag2</title>
+      <link>https://purseu.github.io/gemc-blog/tags/tag2/</link>
+      <pubDate>Tue, 05 Oct 2021 19:13:27 +0800</pubDate>
+      
+      <guid>https://purseu.github.io/gemc-blog/tags/tag2/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>JavaScript</title>
       <link>https://purseu.github.io/gemc-blog/tags/javascript/</link>
