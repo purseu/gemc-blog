@@ -1,34 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on 不见长安</title>
-    <link>https://purseu.github.io/gemc-blog/posts/</link>
-    <description>Recent content in Posts on 不见长安</description>
+    <title>Go on 不见长安</title>
+    <link>https://purseu.github.io/gemc-blog/tags/go/</link>
+    <description>Recent content in Go on 不见长安</description>
     <image>
       <url>https://purseu.github.io/gemc-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://purseu.github.io/gemc-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Oct 2021 17:49:47 +0800</lastBuildDate><atom:link href="https://purseu.github.io/gemc-blog/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First</title>
-      <link>https://purseu.github.io/gemc-blog/posts/first/</link>
-      <pubDate>Tue, 05 Oct 2021 17:49:47 +0800</pubDate>
-      
-      <guid>https://purseu.github.io/gemc-blog/posts/first/</guid>
-      <description>Hello World</description>
-    </item>
-    
-    <item>
-      <title>Typescript基本知识</title>
-      <link>https://purseu.github.io/gemc-blog/posts/typescript_base/</link>
-      <pubDate>Mon, 04 Oct 2021 21:36:42 +0800</pubDate>
-      
-      <guid>https://purseu.github.io/gemc-blog/posts/typescript_base/</guid>
-      <description>&lt;p&gt;TypeScript是 &lt;code&gt;强类型&lt;/code&gt;版的JavaScript。TypeScript允许在定义变量的同时指定类型。&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Mon, 04 Oct 2021 10:53:18 +0800</lastBuildDate><atom:link href="https://purseu.github.io/gemc-blog/tags/go/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go_slice</title>
       <link>https://purseu.github.io/gemc-blog/posts/go_slice/</link>
