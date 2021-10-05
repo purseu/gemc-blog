@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>不见长安</title>
-    <link>https://purseu.github.io/gemc-blog/</link>
+    <link>https://www.gemc.club/</link>
     <description>Recent content on 不见长安</description>
     <image>
-      <url>https://purseu.github.io/gemc-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://purseu.github.io/gemc-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.gemc.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.gemc.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Oct 2021 19:13:27 +0800</lastBuildDate><atom:link href="https://purseu.github.io/gemc-blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Oct 2021 19:13:27 +0800</lastBuildDate><atom:link href="https://www.gemc.club/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go_map</title>
-      <link>https://purseu.github.io/gemc-blog/posts/go_map/</link>
+      <link>https://www.gemc.club/posts/go_map/</link>
       <pubDate>Tue, 05 Oct 2021 19:13:27 +0800</pubDate>
       
-      <guid>https://purseu.github.io/gemc-blog/posts/go_map/</guid>
+      <guid>https://www.gemc.club/posts/go_map/</guid>
       <description>map是一个哈希表。</description>
     </item>
     
     <item>
       <title>Typescript基本知识</title>
-      <link>https://purseu.github.io/gemc-blog/posts/typescript_base/</link>
+      <link>https://www.gemc.club/posts/typescript_base/</link>
       <pubDate>Mon, 04 Oct 2021 21:36:42 +0800</pubDate>
       
-      <guid>https://purseu.github.io/gemc-blog/posts/typescript_base/</guid>
+      <guid>https://www.gemc.club/posts/typescript_base/</guid>
       <description>&lt;p&gt;TypeScript是 &lt;code&gt;强类型&lt;/code&gt;版的JavaScript。TypeScript允许在定义变量的同时指定类型。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Go_slice</title>
-      <link>https://purseu.github.io/gemc-blog/posts/go_slice/</link>
+      <link>https://www.gemc.club/posts/go_slice/</link>
       <pubDate>Mon, 04 Oct 2021 10:53:18 +0800</pubDate>
       
-      <guid>https://purseu.github.io/gemc-blog/posts/go_slice/</guid>
+      <guid>https://www.gemc.club/posts/go_slice/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;1.&lt;/span&gt; slice不能比较
 &lt;span style=&#34;color:#66d9ef&#34;&gt;2.&lt;/span&gt; make函数可以创建一个指定元素类型、长度和容量的slice
     make([]T, len)

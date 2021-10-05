@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on 不见长安</title>
-    <link>https://purseu.github.io/gemc-blog/tags/</link>
+    <link>https://www.gemc.club/tags/</link>
     <description>Recent content in Tags on 不见长安</description>
     <image>
-      <url>https://purseu.github.io/gemc-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://purseu.github.io/gemc-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.gemc.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.gemc.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Oct 2021 19:13:27 +0800</lastBuildDate><atom:link href="https://purseu.github.io/gemc-blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Oct 2021 19:13:27 +0800</lastBuildDate><atom:link href="https://www.gemc.club/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GoLang</title>
-      <link>https://purseu.github.io/gemc-blog/tags/golang/</link>
+      <link>https://www.gemc.club/tags/golang/</link>
       <pubDate>Tue, 05 Oct 2021 19:13:27 +0800</pubDate>
       
-      <guid>https://purseu.github.io/gemc-blog/tags/golang/</guid>
+      <guid>https://www.gemc.club/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Map</title>
-      <link>https://purseu.github.io/gemc-blog/tags/map/</link>
+      <link>https://www.gemc.club/tags/map/</link>
       <pubDate>Tue, 05 Oct 2021 19:13:27 +0800</pubDate>
       
-      <guid>https://purseu.github.io/gemc-blog/tags/map/</guid>
+      <guid>https://www.gemc.club/tags/map/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JavaScript</title>
-      <link>https://purseu.github.io/gemc-blog/tags/javascript/</link>
+      <link>https://www.gemc.club/tags/javascript/</link>
       <pubDate>Mon, 04 Oct 2021 21:36:42 +0800</pubDate>
       
-      <guid>https://purseu.github.io/gemc-blog/tags/javascript/</guid>
+      <guid>https://www.gemc.club/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TypeScript</title>
-      <link>https://purseu.github.io/gemc-blog/tags/typescript/</link>
+      <link>https://www.gemc.club/tags/typescript/</link>
       <pubDate>Mon, 04 Oct 2021 21:36:42 +0800</pubDate>
       
-      <guid>https://purseu.github.io/gemc-blog/tags/typescript/</guid>
+      <guid>https://www.gemc.club/tags/typescript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>https://purseu.github.io/gemc-blog/tags/go/</link>
+      <link>https://www.gemc.club/tags/go/</link>
       <pubDate>Mon, 04 Oct 2021 10:53:18 +0800</pubDate>
       
-      <guid>https://purseu.github.io/gemc-blog/tags/go/</guid>
+      <guid>https://www.gemc.club/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slice</title>
-      <link>https://purseu.github.io/gemc-blog/tags/slice/</link>
+      <link>https://www.gemc.club/tags/slice/</link>
       <pubDate>Mon, 04 Oct 2021 10:53:18 +0800</pubDate>
       
-      <guid>https://purseu.github.io/gemc-blog/tags/slice/</guid>
+      <guid>https://www.gemc.club/tags/slice/</guid>
       <description></description>
     </item>
     
