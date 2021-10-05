@@ -101,7 +101,7 @@ googleAnalytics = "UA-209321245-1"
   hiddenInSingle = true
 
 [params.editPost]
-  URL = "https://purseu.github.io/gemc-blog/"
+  URL = "https://purseu.github.io/gemc-blog"
   Text = "Suggest Changes"
   appendFilePath = true
 
