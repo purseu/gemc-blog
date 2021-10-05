@@ -1,4 +1,5 @@
-baseURL = 'https://purseu.github.io/gemc-blog/'
+# https://purseu.github.io/gemc-blog/
+baseURL = 'https://www.gemc.club'
 languageCode = 'en-us'
 title = '不见长安'
 theme = "PaperMod"
