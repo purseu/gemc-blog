@@ -1,6 +1,7 @@
 # https://purseu.github.io/gemc-blog/
-baseURL = 'https://purseu.github.io/gemc-blog/'
+baseURL = 'https://www.gemc.club/'
 languageCode = 'en-us'
+# defaultContentLanguage
 title = '不见长安'
 theme = "PaperMod"
 
@@ -72,7 +73,7 @@ googleAnalytics = "UA-209321245-1"
 
   [params.homeInfoParams]
     Title = "君不见长安"
-    Content = "Welcome to my blog."
+    Content = "为人子，为人夫，为人父。"
 
   [[params.socialIcons]]
     name = "twitter"
