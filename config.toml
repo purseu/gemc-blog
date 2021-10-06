@@ -12,6 +12,12 @@ buildExpired = false
 
 googleAnalytics = "UA-209321245-1"
 
+[frontmatter]
+  lastmod = [":git", "lastmod", "date", "publishDate"]
+  publishDate = ["publishDate", "date"]
+  expiryDate = ["expiryDate"]
+
+
 [minify]
   disableXML = true
   minifyOutput = true
@@ -26,7 +32,7 @@ googleAnalytics = "UA-209321245-1"
   keywords = [ "Blog", "Portfolio", "PaperMod" ]
   author = "Gemc"
   images = [ "<link or path of image for opengraph, twitter-cards>" ]
-  DateFormat = "2006-01-02 15:04:05 MST Mon"
+  DateFormat = "2006-01-02 15:04:05 Mon"
   defaultTheme = "auto"
   disableThemeToggle = false
   ShowReadingTime = true
