@@ -25,18 +25,20 @@
 <style>#theme-toggle,.top-link{display:none}</style>
 <style>@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--entry:rgb(46, 46, 51);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary:rgb(65, 66, 68);--content:rgb(196, 196, 197);--hljs-bg:rgb(46, 46, 51);--code-bg:rgb(55, 56, 62);--border:rgb(51, 51, 51)}.list{background:var(--theme)}.list:not(.dark)::-webkit-scrollbar-track{background:0 0}.list:not(.dark)::-webkit-scrollbar-thumb{border-color:var(--theme)}}</style>
 </noscript>
-<script type=application/javascript>var doNotTrack=!1;doNotTrack||(function(a,e,f,g,b,c,d){a.GoogleAnalyticsObject=b,a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)},a[b].l=1*new Date,c=e.createElement(f),d=e.getElementsByTagName(f)[0],c.async=1,c.src=g,d.parentNode.insertBefore(c,d)}(window,document,'script','https://www.google-analytics.com/analytics.js','ga'),ga('create','UA-209321245-1','auto'),ga('send','pageview'))</script><meta property="og:title" content="Typescript基本知识">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-209321245-1"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date),gtag('config','UA-209321245-1')</script>
+<meta property="og:title" content="Typescript基本知识">
 <meta property="og:description" content="TypeScript是 强类型版的JavaScript。TypeScript允许在定义变量的同时指定类型。">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.gemc.club/posts/typescript_base/"><meta property="og:image" content="https://www.gemc.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E"><meta property="article:section" content="posts">
 <meta property="article:published_time" content="2021-10-04T21:36:42+08:00">
-<meta property="article:modified_time" content="2021-10-04T21:36:42+08:00"><meta property="og:site_name" content="不见长安">
+<meta property="article:modified_time" content="2021-10-06T21:50:55+08:00"><meta property="og:site_name" content="不见长安">
 <meta name=twitter:card content="summary_large_image">
 <meta name=twitter:image content="https://www.gemc.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E">
 <meta name=twitter:title content="Typescript基本知识">
 <meta name=twitter:description content="TypeScript是 强类型版的JavaScript。TypeScript允许在定义变量的同时指定类型。">
 <script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"https://www.gemc.club/posts/"},{"@type":"ListItem","position":2,"name":"Typescript基本知识","item":"https://www.gemc.club/posts/typescript_base/"}]}</script>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Typescript基本知识","name":"Typescript基本知识","description":"TypeScript是 强类型版的JavaScript。TypeScript允许在定义变量的同时指定类型。\n","keywords":["TypeScript"],"articleBody":"TypeScript是 强类型版的JavaScript。TypeScript允许在定义变量的同时指定类型。\n类型 number,string,array,boolean,function,void,object,any, null,undefined,unknown,never,interface\n.d.ts 1. JS文件 + .d.ts文件 === ts文件 2. .d.ts文件让JS文件继续使用JS文件 ","wordCount":"14","inLanguage":"en","datePublished":"2021-10-04T21:36:42+08:00","dateModified":"2021-10-04T21:36:42+08:00","author":{"@type":"Person","name":"Gemc"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.gemc.club/posts/typescript_base/"},"publisher":{"@type":"Organization","name":"不见长安","logo":{"@type":"ImageObject","url":"https://www.gemc.club/%3Clink%20/%20abs%20url%3E"}}}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Typescript基本知识","name":"Typescript基本知识","description":"TypeScript是 强类型版的JavaScript。TypeScript允许在定义变量的同时指定类型。\n","keywords":["TypeScript"],"articleBody":"TypeScript是 强类型版的JavaScript。TypeScript允许在定义变量的同时指定类型。\n类型 1. number 2. string 3. array 4. boolean 5. function 6. void 7. object 8. any 9. null 10. undefined 11. unknown 12. never 13. interface .d.ts 1. JS文件 + .d.ts文件 === ts文件 2. .d.ts文件让JS文件继续使用JS文件 泛型 联合类型 # 联合类型（Union Types）可以通过管道(|)将变量设置多种类型，赋值时可以根据设置的类型来赋值。 let name: string | number ","wordCount":"48","inLanguage":"en","datePublished":"2021-10-04T21:36:42+08:00","dateModified":"2021-10-06T21:50:55.7819356+08:00","author":{"@type":"Person","name":"Gemc"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.gemc.club/posts/typescript_base/"},"publisher":{"@type":"Organization","name":"不见长安","logo":{"@type":"ImageObject","url":"https://www.gemc.club/%3Clink%20/%20abs%20url%3E"}}}</script>
 </head>
 <body id=top>
 <script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
@@ -85,17 +87,34 @@
 <h1 class=post-title>
 Typescript基本知识
 </h1>
-<div class=post-meta>2021-10-04 21:36:42 CST Mon&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Gemc
+<div class=post-meta>
+<span>Create:&nbsp;&nbsp;</span>2021-10-04 21:36:42 Mon&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Gemc&nbsp;&nbsp;|&nbsp;&nbsp;<span>Update:&nbsp;&nbsp;2021-10-06 21:50:55 Wed</span>
 &nbsp;|&nbsp;<a href=https://purseu.github.io/gemc-blog/posts/typescript_base rel="noopener noreferrer" target=_blank>Suggest Changes</a>
 </div>
 </header>
 <div class=post-content><p>TypeScript是 <code>强类型</code>版的JavaScript。TypeScript允许在定义变量的同时指定类型。</p>
 <h3 id=类型>类型<a hidden class=anchor aria-hidden=true href=#类型>#</a></h3>
-<p>number,string,array,boolean,function,void,object,any,
-null,undefined,unknown,never,interface</p>
-<h4 id=dts>.d.ts<a hidden class=anchor aria-hidden=true href=#dts>#</a></h4>
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-markdown data-lang=markdown><span style=color:#66d9ef>1.</span> number
+<span style=color:#66d9ef>2.</span> string
+<span style=color:#66d9ef>3.</span> array
+<span style=color:#66d9ef>4.</span> boolean
+<span style=color:#66d9ef>5.</span> function
+<span style=color:#66d9ef>6.</span> void
+<span style=color:#66d9ef>7.</span> object
+<span style=color:#66d9ef>8.</span> any
+<span style=color:#66d9ef>9.</span> null
+<span style=color:#66d9ef>10.</span> undefined
+<span style=color:#66d9ef>11.</span> unknown
+<span style=color:#66d9ef>12.</span> never
+<span style=color:#66d9ef>13.</span> interface
+</code></pre></div><h4 id=dts>.d.ts<a hidden class=anchor aria-hidden=true href=#dts>#</a></h4>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-markdown data-lang=markdown><span style=color:#66d9ef>1.</span> JS文件 + .d.ts文件 === ts文件
 <span style=color:#66d9ef>2.</span> .d.ts文件让JS文件继续使用JS文件
+</code></pre></div><h4 id=泛型>泛型<a hidden class=anchor aria-hidden=true href=#泛型>#</a></h4>
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-markdown data-lang=markdown>
+</code></pre></div><h4 id=联合类型>联合类型<a hidden class=anchor aria-hidden=true href=#联合类型>#</a></h4>
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-markdown data-lang=markdown># 联合类型（Union Types）可以通过管道(|)将变量设置多种类型，赋值时可以根据设置的类型来赋值。
+let name: string | number
 </code></pre></div>
 </div>
 <footer class=post-footer>
