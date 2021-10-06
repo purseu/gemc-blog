@@ -15,4 +15,4 @@
 {{- delimit . "&nbsp;·&nbsp;" -}}
 {{- end -}}
 
-&nbsp;&nbsp;|&nbsp;&nbsp;<span>Update:&nbsp;&nbsp;{{ .Params.lastmod }}</span>
+&nbsp;&nbsp;|&nbsp;&nbsp;<span>Update:&nbsp;&nbsp;{{ .Params.lastmod.Format (default "January 2, 2006" .Site.Params.DateFormat) }}</span>

@@ -13,9 +13,7 @@ buildExpired = false
 googleAnalytics = "UA-209321245-1"
 
 [frontmatter]
-  lastmod = [":git", "lastmod", "date", "publishDate"]
-  publishDate = ["publishDate", "date"]
-  expiryDate = ["expiryDate"]
+  lastmod = [":git", "lastmod", ":fileModTime"]
 
 
 [minify]
