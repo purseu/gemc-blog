@@ -3,11 +3,11 @@
 <meta http-equiv=x-ua-compatible content="IE=edge">
 <meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no">
 <meta name=robots content="index, follow">
-<title>Posts | 不见长安</title>
+<title>UI测试 | 不见长安</title>
 <meta name=keywords content>
-<meta name=description content="Posts - 不见长安">
+<meta name=description content="这里只是记录一下生活随笔和简陋的笔记。">
 <meta name=author content="Gemc">
-<link rel=canonical href=https://www.gemc.club/posts/>
+<link rel=canonical href=https://www.gemc.club/tags/ui%E6%B5%8B%E8%AF%95/>
 <meta name=google-site-verification content="XYZabc">
 <meta name=yandex-verification content="XYZabc">
 <meta name=msvalidate.01 content="XYZabc">
@@ -20,22 +20,21 @@
 <meta name=theme-color content="#2e2e33">
 <meta name=msapplication-TileColor content="#2e2e33">
 <meta name=generator content="Hugo 0.88.1">
-<link rel=alternate type=application/rss+xml href=https://www.gemc.club/posts/index.xml>
+<link rel=alternate type=application/rss+xml href=https://www.gemc.club/tags/ui%E6%B5%8B%E8%AF%95/index.xml>
 <noscript>
 <style>#theme-toggle,.top-link{display:none}</style>
 <style>@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--entry:rgb(46, 46, 51);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary:rgb(65, 66, 68);--content:rgb(196, 196, 197);--hljs-bg:rgb(46, 46, 51);--code-bg:rgb(55, 56, 62);--border:rgb(51, 51, 51)}.list{background:var(--theme)}.list:not(.dark)::-webkit-scrollbar-track{background:0 0}.list:not(.dark)::-webkit-scrollbar-thumb{border-color:var(--theme)}}</style>
 </noscript>
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-209321245-1"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date),gtag('config','UA-209321245-1')</script>
-<meta property="og:title" content="Posts">
+<meta property="og:title" content="UI测试">
 <meta property="og:description" content="这里只是记录一下生活随笔和简陋的笔记。">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.gemc.club/posts/"><meta property="og:image" content="https://www.gemc.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E"><meta property="og:site_name" content="不见长安">
+<meta property="og:url" content="https://www.gemc.club/tags/ui%E6%B5%8B%E8%AF%95/"><meta property="og:image" content="https://www.gemc.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E"><meta property="og:site_name" content="不见长安">
 <meta name=twitter:card content="summary_large_image">
 <meta name=twitter:image content="https://www.gemc.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E">
-<meta name=twitter:title content="Posts">
+<meta name=twitter:title content="UI测试">
 <meta name=twitter:description content="这里只是记录一下生活随笔和简陋的笔记。">
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"https://www.gemc.club/posts/"}]}</script>
 </head>
 <body class=list id=top>
 <script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
@@ -78,24 +77,10 @@
 </nav>
 </header>
 <main class=main>
-<header class=page-header><div class=breadcrumbs><a href=https://www.gemc.club/>Home</a></div>
-<h1>Posts</h1>
+<header class=page-header><div class=breadcrumbs><a href=https://www.gemc.club/>Home</a>&nbsp;»&nbsp;<a href=https://www.gemc.club/tags/>Tags</a></div>
+<h1>UI测试</h1>
 </header>
-<article class=post-entry>
-<header class=entry-header>
-<h2>pytest介绍
-</h2>
-</header>
-<section class=entry-content>
-<p>pytest是一款非常灵活且成熟的Python测试框架。pytest 是一个使得构建简单和可伸缩的测试很容易的框架。测试不需要样板代码。几分钟就可以开始对应用程序或库进行小的单元测试或复杂的功能测试。这里将记录pytest的一些简单使用。
-Python内建的unittest也是一个好用的单元测试框架。
-安装pytest # 安装最新版pytest pip install -U pytest # 查看安装版本 pytest --version 创建第一个测试 def func(arg): return arg + 1 def test_answer(): assert func(4) == 6 文件所在目录命令行中执行pytest。从代码中便可以看出这是不相等的。执行pytest后，将会给出详细的错误信息，请看：</p>
-</section>
-<footer class=entry-footer>
-<span>Create:&nbsp;&nbsp;</span>2021-10-11 21:37:13 Mon&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Gemc&nbsp;&nbsp;|&nbsp;&nbsp;<span>Update:&nbsp;&nbsp;2021-10-11 23:05:25 Mon</span></footer>
-<a class=entry-link aria-label="post link to pytest介绍" href=https://www.gemc.club/posts/testing/pytest_20211011/></a>
-</article>
-<article class=post-entry>
+<article class="post-entry tag-entry">
 <header class=entry-header>
 <h2>Playwright基本介绍
 </h2>
@@ -112,43 +97,6 @@ import asyncio import time from playwright.async_api import async_playwright asy
 <footer class=entry-footer>
 <span>Create:&nbsp;&nbsp;</span>2021-10-11 19:55:06 Mon&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Gemc&nbsp;&nbsp;|&nbsp;&nbsp;<span>Update:&nbsp;&nbsp;2021-10-11 21:21:58 Mon</span></footer>
 <a class=entry-link aria-label="post link to Playwright基本介绍" href=https://www.gemc.club/posts/playwright_base/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Go_map
-</h2>
-</header>
-<section class=entry-content>
-<p>map是一个哈希表。</p>
-</section>
-<footer class=entry-footer>
-<span>Create:&nbsp;&nbsp;</span>2021-10-05 19:13:27 Tue&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Gemc&nbsp;&nbsp;|&nbsp;&nbsp;<span>Update:&nbsp;&nbsp;2021-10-05 19:15:42 Tue</span></footer>
-<a class=entry-link aria-label="post link to Go_map" href=https://www.gemc.club/posts/go_map/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Typescript基本知识
-</h2>
-</header>
-<section class=entry-content>
-<p>TypeScript是 强类型版的JavaScript。TypeScript允许在定义变量的同时指定类型。
-...</p>
-</section>
-<footer class=entry-footer>
-<span>Create:&nbsp;&nbsp;</span>2021-10-04 21:36:42 Mon&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Gemc&nbsp;&nbsp;|&nbsp;&nbsp;<span>Update:&nbsp;&nbsp;2021-10-06 21:50:55 Wed</span></footer>
-<a class=entry-link aria-label="post link to Typescript基本知识" href=https://www.gemc.club/posts/typescript_base/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Go_slice
-</h2>
-</header>
-<section class=entry-content>
-<p>1. slice不能比较 2. make函数可以创建一个指定元素类型、长度和容量的slice make([]T, len) make([]T, len, cap) == make([]T, cap)[:len] ...</p>
-</section>
-<footer class=entry-footer>
-<span>Create:&nbsp;&nbsp;</span>2021-10-04 10:53:18 Mon&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Gemc&nbsp;&nbsp;|&nbsp;&nbsp;<span>Update:&nbsp;&nbsp;2021-10-04 21:50:45 Mon</span></footer>
-<a class=entry-link aria-label="post link to Go_slice" href=https://www.gemc.club/posts/go_slice/></a>
 </article>
 </main>
 <footer class=footer>

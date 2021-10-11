@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>不见长安</title>
-    <link>https://www.gemc.club/</link>
-    <description>Recent content on 不见长安</description>
+    <title>自动化 on 不见长安</title>
+    <link>https://www.gemc.club/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</link>
+    <description>Recent content in 自动化 on 不见长安</description>
     <image>
       <url>https://www.gemc.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://www.gemc.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Oct 2021 21:37:13 +0800</lastBuildDate><atom:link href="https://www.gemc.club/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Oct 2021 21:37:13 +0800</lastBuildDate><atom:link href="https://www.gemc.club/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>pytest介绍</title>
       <link>https://www.gemc.club/posts/testing/pytest_20211011/</link>
@@ -36,39 +36,6 @@ Playwright Playwright的特点：
 # 安装浏览器驱动 playwright install 安装完成，开始初步的体验吧。将以打开百度首页为例进行使用Playwright。
 import asyncio import time from playwright.async_api import async_playwright async def main(): async with async_playwright() as p: browser = await p.</description>
     </item>
-    
-    <item>
-      <title>Go_map</title>
-      <link>https://www.gemc.club/posts/go_map/</link>
-      <pubDate>Tue, 05 Oct 2021 19:13:27 +0800</pubDate>
-      
-      <guid>https://www.gemc.club/posts/go_map/</guid>
-      <description>map是一个哈希表。</description>
-    </item>
-    
-    <item>
-      <title>Typescript基本知识</title>
-      <link>https://www.gemc.club/posts/typescript_base/</link>
-      <pubDate>Mon, 04 Oct 2021 21:36:42 +0800</pubDate>
-      
-      <guid>https://www.gemc.club/posts/typescript_base/</guid>
-      <description>&lt;p&gt;TypeScript是 &lt;code&gt;强类型&lt;/code&gt;版的JavaScript。TypeScript允许在定义变量的同时指定类型。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Go_slice</title>
-      <link>https://www.gemc.club/posts/go_slice/</link>
-      <pubDate>Mon, 04 Oct 2021 10:53:18 +0800</pubDate>
-      
-      <guid>https://www.gemc.club/posts/go_slice/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;1.&lt;/span&gt; slice不能比较
-&lt;span style=&#34;color:#66d9ef&#34;&gt;2.&lt;/span&gt; make函数可以创建一个指定元素类型、长度和容量的slice
-    make([]T, len)
-    make([]T, len, cap) == make([]T, cap)[:len]
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-    </item>
-    
-    
     
   </channel>
 </rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>pytest on 不见长安</title>
+    <link>https://www.gemc.club/categories/pytest/</link>
+    <description>Recent content in pytest on 不见长安</description>
+    <image>
+      <url>https://www.gemc.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.gemc.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Oct 2021 21:37:13 +0800</lastBuildDate><atom:link href="https://www.gemc.club/categories/pytest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pytest介绍</title>
+      <link>https://www.gemc.club/posts/testing/pytest_20211011/</link>
+      <pubDate>Mon, 11 Oct 2021 21:37:13 +0800</pubDate>
+      
+      <guid>https://www.gemc.club/posts/testing/pytest_20211011/</guid>
+      <description>pytest是一款非常灵活且成熟的Python测试框架。pytest 是一个使得构建简单和可伸缩的测试很容易的框架。测试不需要样板代码。几分钟就可以开始对应用程序或库进行小的单元测试或复杂的功能测试。这里将记录pytest的一些简单使用。
+Python内建的unittest也是一个好用的单元测试框架。
+安装pytest # 安装最新版pytest pip install -U pytest # 查看安装版本 pytest --version 创建第一个测试 def func(arg): return arg + 1 def test_answer(): assert func(4) == 6 文件所在目录命令行中执行pytest。从代码中便可以看出这是不相等的。执行pytest后，将会给出详细的错误信息，请看：</description>
+    </item>
+    
+  </channel>
+</rss>
