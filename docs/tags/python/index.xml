@@ -10,7 +10,19 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Oct 2021 21:37:13 +0800</lastBuildDate><atom:link href="https://www.gemc.club/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Oct 2021 22:18:02 +0800</lastBuildDate><atom:link href="https://www.gemc.club/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pytest 入门</title>
+      <link>https://www.gemc.club/posts/testing/pytest_201014/</link>
+      <pubDate>Thu, 14 Oct 2021 22:18:02 +0800</pubDate>
+      
+      <guid>https://www.gemc.club/posts/testing/pytest_201014/</guid>
+      <description>有些事，现在看来不过如此，但在当时，真的就是一个人一秒一秒熬过来的；人生是一场永不落幕的演出，我们每一个人都是演员，只不过，有的人顺从自己，有的人取悦观众。 --------------------------- 每日一句
+pytest单元测试框架 什么是单元测试框架 单元测试是指软件开发中，最小单位的测试。(函数、方法)
+单元测试框架 # java 1. junit 2. testng # python 1. unittest 2. pytest 单元测试框架的作用  测试发现 从多个文件里寻找测试用例 测试执行 按照一定的业务规则和顺序执行生成测试结果 测试判断 通过断言判断预期结果和实际结果 测试报告 统计测试进度，生成测试报告  单元测试框架和自动化测试框架的关系 作用  提高测试效率 减少人工干预，提高测试的准确性，增加代码的复用性 核心思想是让不懂代码的人也能够通过框架进行自动化测试  pytest与自动化测试框架的关系   单元测试框架： 其只是自动化框架的组成之一 pom设计模式： 其只是自动化框架的组成之一   框架包含更多的东西，包括不限于以下：
+ 数据驱动 关键字驱动 全局配置文件的封装 日志监控 selenium、requests二次封装 断言 发送邮件 &amp;hellip;  end</description>
+    </item>
+    
     <item>
       <title>pytest介绍</title>
       <link>https://www.gemc.club/posts/testing/pytest_20211011/</link>
@@ -19,7 +31,9 @@
       <guid>https://www.gemc.club/posts/testing/pytest_20211011/</guid>
       <description>pytest是一款非常灵活且成熟的Python测试框架。pytest 是一个使得构建简单和可伸缩的测试很容易的框架。测试不需要样板代码。几分钟就可以开始对应用程序或库进行小的单元测试或复杂的功能测试。这里将记录pytest的一些简单使用。
 Python内建的unittest也是一个好用的单元测试框架。
-安装pytest # 安装最新版pytest pip install -U pytest # 查看安装版本 pytest --version 创建第一个测试 def func(arg): return arg + 1 def test_answer(): assert func(4) == 6 文件所在目录命令行中执行pytest。从代码中便可以看出这是不相等的。执行pytest后，将会给出详细的错误信息，请看：</description>
+pytest简介 特点  pytest是一个非常成熟的python单元测试框架，比unittest更灵活，更容易上手 pytest可以和selenium，requests、appium结合实现web自动化、接口自动化、app自动化 pytest可以实现测试用例的跳过以及重跑失败用例 pytest配合allure生成美观的测试报告 pytest集合jenkins实现集成测试 pytest拥有丰富的插件  pytest pytest-html 生成html格式的自动化测试报告 pytest-xdist 测试用例分布式执行，多CPU分发 pytest-ordering 用来改变测试用例的执行顺序 pytest-rerunfailures 用例失败后重跑 allure-pytest 生成美观的测试报告    安装pytest # 安装最新版pytest pip install -U pytest # 查看安装版本 pytest --version 创建第一个测试 def func(arg): return arg + 1 def test_answer(): assert func(4) == 6 文件所在目录命令行中执行pytest。从代码中便可以看出这是不相等的。执行pytest后，将会给出详细的错误信息，请看：
+pytest测试用例的默认规则  模块名必须以test_开头或者_test结尾 测试类必须以Test开头，且不能含有__init__方法 测试方法必须以test开头  pytest测试用例的运行方式  主函数模式 命令行模式 通过pytest.ini配置文件运行  主函数模式 Code:
+#!/usr/bin/env python # ----------------------------------- # -*- coding: utf-8 -*- # @Time : 2021/10/14 22:55 # @Author : Gemc # @Email : ge942812@gmail.</description>
     </item>
     
   </channel>
