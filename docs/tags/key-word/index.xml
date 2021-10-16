@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>key word on 不见长安</title>
+    <link>https://www.gemc.club/tags/key-word/</link>
+    <description>Recent content in key word on 不见长安</description>
+    <image>
+      <url>https://www.gemc.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.gemc.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Oct 2021 20:08:41 +0800</lastBuildDate><atom:link href="https://www.gemc.club/tags/key-word/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Selenium(二): 关键字驱动</title>
+      <link>https://www.gemc.club/posts/testing/autotest/selenium/selenium_%E5%85%B3%E9%94%AE%E5%AD%97%E9%A9%B1%E5%8A%A8/</link>
+      <pubDate>Sat, 16 Oct 2021 20:08:41 +0800</pubDate>
+      
+      <guid>https://www.gemc.club/posts/testing/autotest/selenium/selenium_%E5%85%B3%E9%94%AE%E5%AD%97%E9%A9%B1%E5%8A%A8/</guid>
+      <description>今天所有的成就都不是本来应该得到的。决定是成功的起点，坚持是成功的终点。做任何事情，都需要坚持，你还没有看到终点，或者你马上就要到达终点，却半途而废，那么你的梦想只会离你越来越远。如果坚持并努力，下一个成功者就是你。
+关键字驱动 关键字驱动是自动化测试技术体系下非常核心的技术点。封装就是关键字驱动的核心。
+结构 代码与数据分离，逻辑代码与测试代码分离
+实现目标  生成测试文件，管理所有的操作行为以及关联数据 基于代码层级的文件执行，来实现基于文件内容的自动化测试流程  数据驱动 Excel数据驱动是最容易上手的数据驱动
+Excel常用库  Openpyxl  pip install -U openpyxl    操作excel 读写流程: 1. 获取excel文件 2. 获取sheet页 3. 获取单元格内容</description>
+    </item>
+    
+  </channel>
+</rss>
