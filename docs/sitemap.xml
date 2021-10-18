@@ -3,48 +3,75 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.gemc.club/categories/</loc>
-    <lastmod>2021-10-16T21:33:11+08:00</lastmod>
+    <lastmod>2021-10-18T20:14:28+08:00</lastmod>
   </url><url>
     <loc>https://www.gemc.club/tags/key-word/</loc>
-    <lastmod>2021-10-16T21:33:11+08:00</lastmod>
+    <lastmod>2021-10-18T20:14:28+08:00</lastmod>
   </url><url>
     <loc>https://www.gemc.club/posts/</loc>
-    <lastmod>2021-10-16T21:33:11+08:00</lastmod>
+    <lastmod>2021-10-18T20:14:28+08:00</lastmod>
   </url><url>
-    <loc>https://www.gemc.club/tags/selenium/</loc>
-    <lastmod>2021-10-16T21:33:11+08:00</lastmod>
+    <loc>https://www.gemc.club/tags/rf/</loc>
+    <lastmod>2021-10-18T20:14:28+08:00</lastmod>
   </url><url>
-    <loc>https://www.gemc.club/categories/selenium/</loc>
-    <lastmod>2021-10-16T21:33:11+08:00</lastmod>
+    <loc>https://www.gemc.club/categories/rf/</loc>
+    <lastmod>2021-10-18T20:14:28+08:00</lastmod>
   </url><url>
-    <loc>https://www.gemc.club/posts/testing/autotest/selenium/selenium_%E5%85%B3%E9%94%AE%E5%AD%97%E9%A9%B1%E5%8A%A8/</loc>
-    <lastmod>2021-10-16T21:33:11+08:00</lastmod>
+    <loc>https://www.gemc.club/posts/testing/autotest/robotframework/rf_%E7%AE%80%E4%BB%8B/</loc>
+    <lastmod>2021-10-18T20:14:28+08:00</lastmod>
   </url><url>
     <loc>https://www.gemc.club/tags/</loc>
-    <lastmod>2021-10-16T21:33:11+08:00</lastmod>
+    <lastmod>2021-10-18T20:14:28+08:00</lastmod>
   </url><url>
     <loc>https://www.gemc.club/categories/testing/</loc>
-    <lastmod>2021-10-16T21:33:11+08:00</lastmod>
-  </url><url>
-    <loc>https://www.gemc.club/tags/web-ui/</loc>
-    <lastmod>2021-10-16T21:33:11+08:00</lastmod>
+    <lastmod>2021-10-18T20:14:28+08:00</lastmod>
   </url><url>
     <loc>https://www.gemc.club/</loc>
-    <lastmod>2021-10-16T21:33:11+08:00</lastmod>
+    <lastmod>2021-10-18T20:14:28+08:00</lastmod>
   </url><url>
     <loc>https://www.gemc.club/tags/%E5%85%B3%E9%94%AE%E5%AD%97/</loc>
-    <lastmod>2021-10-16T21:33:11+08:00</lastmod>
+    <lastmod>2021-10-18T20:14:28+08:00</lastmod>
   </url><url>
     <loc>https://www.gemc.club/categories/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2021-10-16T21:33:11+08:00</lastmod>
+    <lastmod>2021-10-18T20:14:28+08:00</lastmod>
+  </url><url>
+    <loc>https://www.gemc.club/tags/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2021-10-17T20:29:14+08:00</lastmod>
+  </url><url>
+    <loc>https://www.gemc.club/categories/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2021-10-17T20:29:14+08:00</lastmod>
+  </url><url>
+    <loc>https://www.gemc.club/posts/testing/interfaces/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</loc>
+    <lastmod>2021-10-17T20:29:14+08:00</lastmod>
+  </url><url>
+    <loc>https://www.gemc.club/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</loc>
+    <lastmod>2021-10-17T20:29:14+08:00</lastmod>
+  </url><url>
+    <loc>https://www.gemc.club/categories/%E8%87%AA%E5%8A%A8%E5%8C%96/</loc>
+    <lastmod>2021-10-17T20:29:14+08:00</lastmod>
+  </url><url>
+    <loc>https://www.gemc.club/tags/selenium/</loc>
+    <lastmod>2021-10-17T18:13:45+08:00</lastmod>
+  </url><url>
+    <loc>https://www.gemc.club/categories/selenium/</loc>
+    <lastmod>2021-10-17T18:13:45+08:00</lastmod>
+  </url><url>
+    <loc>https://www.gemc.club/posts/testing/autotest/selenium/selenium_%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8/</loc>
+    <lastmod>2021-10-17T18:13:45+08:00</lastmod>
+  </url><url>
+    <loc>https://www.gemc.club/tags/web-ui/</loc>
+    <lastmod>2021-10-17T18:13:45+08:00</lastmod>
+  </url><url>
+    <loc>https://www.gemc.club/tags/%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8/</loc>
+    <lastmod>2021-10-17T18:13:45+08:00</lastmod>
+  </url><url>
+    <loc>https://www.gemc.club/posts/testing/autotest/selenium/selenium_%E5%85%B3%E9%94%AE%E5%AD%97%E9%A9%B1%E5%8A%A8/</loc>
+    <lastmod>2021-10-17T16:11:58+08:00</lastmod>
   </url><url>
     <loc>https://www.gemc.club/posts/testing/autotest/selenium/selenium%E7%AE%80%E4%BB%8B/</loc>
     <lastmod>2021-10-16T20:06:08+08:00</lastmod>
   </url><url>
     <loc>https://www.gemc.club/tags/testing/</loc>
-    <lastmod>2021-10-16T18:51:04+08:00</lastmod>
-  </url><url>
-    <loc>https://www.gemc.club/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</loc>
     <lastmod>2021-10-16T18:51:04+08:00</lastmod>
   </url><url>
     <loc>https://www.gemc.club/posts/testing/autotest/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95_20211016/</loc>

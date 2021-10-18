@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Oct 2021 20:08:41 +0800</lastBuildDate><atom:link href="https://www.gemc.club/tags/%E5%85%B3%E9%94%AE%E5%AD%97/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Oct 2021 20:04:57 +0800</lastBuildDate><atom:link href="https://www.gemc.club/tags/%E5%85%B3%E9%94%AE%E5%AD%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rf_简介</title>
+      <link>https://www.gemc.club/posts/testing/autotest/robotframework/rf_%E7%AE%80%E4%BB%8B/</link>
+      <pubDate>Mon, 18 Oct 2021 20:04:57 +0800</pubDate>
+      
+      <guid>https://www.gemc.club/posts/testing/autotest/robotframework/rf_%E7%AE%80%E4%BB%8B/</guid>
+      <description>RF环境搭建 pip install -U robotframework 查看版本 robot &amp;ndash;version</description>
+    </item>
+    
     <item>
       <title>Selenium(二): 关键字驱动</title>
       <link>https://www.gemc.club/posts/testing/autotest/selenium/selenium_%E5%85%B3%E9%94%AE%E5%AD%97%E9%A9%B1%E5%8A%A8/</link>

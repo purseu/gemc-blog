@@ -99,6 +99,51 @@
 </article>
 <article class=post-entry>
 <header class=entry-header>
+<h2>Rf_简介
+</h2>
+</header>
+<section class=entry-content>
+<p>RF环境搭建 pip install -U robotframework 查看版本 robot –version</p>
+</section>
+<footer class=entry-footer>
+<span>Create:&nbsp;&nbsp;</span>2021-10-18 20:04:57 Mon&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Gemc&nbsp;&nbsp;|&nbsp;&nbsp;<span>Update:&nbsp;&nbsp;2021-10-18 20:14:28 Mon</span></footer>
+<a class=entry-link aria-label="post link to Rf_简介" href=https://www.gemc.club/posts/testing/autotest/robotframework/rf_%E7%AE%80%E4%BB%8B/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>接口测试基础知识
+</h2>
+</header>
+<section class=entry-content>
+<p>接口测试 百度百科的定义:
+接口测试是测试系统组件间接口的一种测试。接口测试主要用于检测外部系统与系统之间以及内部各个子系统之间的交互点。测试的重点是要检查数据的交换，传递和控制管理过程，以及系统间的相互逻辑依赖关系等
+什么是接口测试 在了解什么是接口测试之前，让我们先了解一下什么是接口。
+什么是接口 是指对协定进行定义的引用类型。接口就是规定要程序做什么，但不在其中实现。
+接口的分类 # http 1. post 2. get 3. delete 4. put 5. ... 接口测试流程 凡事预则立不预则废。不管做什么事情，都应该有一个规则流程。接口测试也同样如此。
+V模型 需求讨论 需求评审 场景设计 用例设计 数据准备 执行 设计测试用例的理由 理清思路，避免漏测 提高测试效率 跟进测试进度 测试报告 跟进重复性工作 用例设计 功能 逻辑业务 异常 安全 用例设计-功能用例设计 功能是否正常 功能是否按照接口文档实现 用例设计-逻辑用例设计 是否依赖业务 用例设计-异常用例设计 参数异常 关键字参数 参数为空 多、少参数 错误参数 数据异常 关键字数据 数据为空 长度不一致 错误数据 用例设计-安全用例设计 cookie header 唯一识别码 接口测试环境搭建 这里使用Python的第三方库：requests。这是一个非常成熟且热门的库。...</p>
+</section>
+<footer class=entry-footer>
+<span>Create:&nbsp;&nbsp;</span>2021-10-17 18:56:05 Sun&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Gemc&nbsp;&nbsp;|&nbsp;&nbsp;<span>Update:&nbsp;&nbsp;2021-10-17 20:29:14 Sun</span></footer>
+<a class=entry-link aria-label="post link to 接口测试基础知识" href=https://www.gemc.club/posts/testing/interfaces/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Selenium_数据驱动
+</h2>
+</header>
+<section class=entry-content>
+<p>什么是数据驱动 从它的定义来看，就是数据的改变从而驱动自动化测试的执行，最终引起测试结果的改变。说的直白些，就是参数化的应用。
+自动化测试都是基于代码实现的，为了考虑到测试用例的复用性，会将测试数据与代码进行分离，然后基于数据的变动来实现各个流程的条件覆盖。
+数据驱动形式 Excel数据驱动 Yaml/Json/Py数据驱动 数据维护较为便利，数据结构直观 其他 txt、csv。。。 Excel数据驱动实现 xlwt/xlrd 已过时，目前 excel基本都是2010及以上，使用openpyxl进行操作
+实现方式 所有操作步骤+测试数据基于excel实现 只在excel中保存测试数据，测试步骤基于unittest、pytest实现 excel实现 打开文件 读取数据 测试 RF基于关键字驱动与数据驱动结合的自动化测试框架，能够兼容WebUI、APPUI和接口自动化测试。
+RF不需要编写代码，本身基于RF自定义的一种表格编写语法的形式来实现工具的自动化测试。</p>
+</section>
+<footer class=entry-footer>
+<span>Create:&nbsp;&nbsp;</span>2021-10-17 16:12:40 Sun&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Gemc&nbsp;&nbsp;|&nbsp;&nbsp;<span>Update:&nbsp;&nbsp;2021-10-17 18:13:45 Sun</span></footer>
+<a class=entry-link aria-label="post link to Selenium_数据驱动" href=https://www.gemc.club/posts/testing/autotest/selenium/selenium_%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
 <h2>Selenium(二): 关键字驱动
 </h2>
 </header>
@@ -110,7 +155,7 @@
 Excel常用库 Openpyxl pip install -U openpyxl 操作excel 读写流程: 1. 获取excel文件 2. 获取sheet页 3. 获取单元格内容</p>
 </section>
 <footer class=entry-footer>
-<span>Create:&nbsp;&nbsp;</span>2021-10-16 20:08:41 Sat&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Gemc&nbsp;&nbsp;|&nbsp;&nbsp;<span>Update:&nbsp;&nbsp;2021-10-16 21:33:11 Sat</span></footer>
+<span>Create:&nbsp;&nbsp;</span>2021-10-16 20:08:41 Sat&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Gemc&nbsp;&nbsp;|&nbsp;&nbsp;<span>Update:&nbsp;&nbsp;2021-10-17 16:11:58 Sun</span></footer>
 <a class=entry-link aria-label="post link to Selenium(二): 关键字驱动" href=https://www.gemc.club/posts/testing/autotest/selenium/selenium_%E5%85%B3%E9%94%AE%E5%AD%97%E9%A9%B1%E5%8A%A8/></a>
 </article>
 <article class=post-entry>
@@ -209,43 +254,11 @@ import asyncio import time from playwright.async_api import async_playwright asy
 <span>Create:&nbsp;&nbsp;</span>2021-10-11 19:55:06 Mon&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Gemc&nbsp;&nbsp;|&nbsp;&nbsp;<span>Update:&nbsp;&nbsp;2021-10-11 21:21:58 Mon</span></footer>
 <a class=entry-link aria-label="post link to Playwright基本介绍" href=https://www.gemc.club/posts/playwright_base/></a>
 </article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Go_map
-</h2>
-</header>
-<section class=entry-content>
-<p>map是一个哈希表。</p>
-</section>
-<footer class=entry-footer>
-<span>Create:&nbsp;&nbsp;</span>2021-10-05 19:13:27 Tue&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Gemc&nbsp;&nbsp;|&nbsp;&nbsp;<span>Update:&nbsp;&nbsp;2021-10-05 19:15:42 Tue</span></footer>
-<a class=entry-link aria-label="post link to Go_map" href=https://www.gemc.club/posts/go_map/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Typescript基本知识
-</h2>
-</header>
-<section class=entry-content>
-<p>TypeScript是 强类型版的JavaScript。TypeScript允许在定义变量的同时指定类型。
-...</p>
-</section>
-<footer class=entry-footer>
-<span>Create:&nbsp;&nbsp;</span>2021-10-04 21:36:42 Mon&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Gemc&nbsp;&nbsp;|&nbsp;&nbsp;<span>Update:&nbsp;&nbsp;2021-10-06 21:50:55 Wed</span></footer>
-<a class=entry-link aria-label="post link to Typescript基本知识" href=https://www.gemc.club/posts/typescript_base/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Go_slice
-</h2>
-</header>
-<section class=entry-content>
-<p>1. slice不能比较 2. make函数可以创建一个指定元素类型、长度和容量的slice make([]T, len) make([]T, len, cap) == make([]T, cap)[:len] ...</p>
-</section>
-<footer class=entry-footer>
-<span>Create:&nbsp;&nbsp;</span>2021-10-04 10:53:18 Mon&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Gemc&nbsp;&nbsp;|&nbsp;&nbsp;<span>Update:&nbsp;&nbsp;2021-10-04 21:50:45 Mon</span></footer>
-<a class=entry-link aria-label="post link to Go_slice" href=https://www.gemc.club/posts/go_slice/></a>
-</article>
+<footer class=page-footer>
+<nav class=pagination>
+<a class=next href=https://www.gemc.club/page/2/>Next Page »</a>
+</nav>
+</footer>
 </main>
 <footer class=footer>
 <span>&copy; 2021 <a href=https://www.gemc.club/>不见长安</a></span>

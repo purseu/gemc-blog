@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>自动化 on 不见长安</title>
+    <link>https://www.gemc.club/categories/%E8%87%AA%E5%8A%A8%E5%8C%96/</link>
+    <description>Recent content in 自动化 on 不见长安</description>
+    <image>
+      <url>https://www.gemc.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.gemc.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Oct 2021 18:56:05 +0800</lastBuildDate><atom:link href="https://www.gemc.club/categories/%E8%87%AA%E5%8A%A8%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>接口测试基础知识</title>
+      <link>https://www.gemc.club/posts/testing/interfaces/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</link>
+      <pubDate>Sun, 17 Oct 2021 18:56:05 +0800</pubDate>
+      
+      <guid>https://www.gemc.club/posts/testing/interfaces/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</guid>
+      <description>接口测试 百度百科的定义:
+ 接口测试是测试系统组件间接口的一种测试。接口测试主要用于检测外部系统与系统之间以及内部各个子系统之间的交互点。测试的重点是要检查数据的交换，传递和控制管理过程，以及系统间的相互逻辑依赖关系等
+ 什么是接口测试 在了解什么是接口测试之前，让我们先了解一下什么是接口。
+什么是接口 是指对协定进行定义的引用类型。接口就是规定要程序做什么，但不在其中实现。
+接口的分类 # http 1. post 2. get 3. delete 4. put 5. ... 接口测试流程 凡事预则立不预则废。不管做什么事情，都应该有一个规则流程。接口测试也同样如此。
+V模型  需求讨论 需求评审 场景设计 用例设计 数据准备 执行  设计测试用例的理由  理清思路，避免漏测 提高测试效率 跟进测试进度 测试报告 跟进重复性工作  用例设计  功能 逻辑业务 异常 安全  用例设计-功能用例设计  功能是否正常 功能是否按照接口文档实现  用例设计-逻辑用例设计  是否依赖业务  用例设计-异常用例设计  参数异常  关键字参数 参数为空 多、少参数 错误参数   数据异常  关键字数据 数据为空 长度不一致 错误数据    用例设计-安全用例设计  cookie header 唯一识别码  接口测试环境搭建 这里使用Python的第三方库：requests。这是一个非常成熟且热门的库。</description>
+    </item>
+    
+  </channel>
+</rss>

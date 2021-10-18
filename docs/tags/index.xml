@@ -10,20 +10,56 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Oct 2021 20:08:41 +0800</lastBuildDate><atom:link href="https://www.gemc.club/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Oct 2021 20:04:57 +0800</lastBuildDate><atom:link href="https://www.gemc.club/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>key word</title>
       <link>https://www.gemc.club/tags/key-word/</link>
-      <pubDate>Sat, 16 Oct 2021 20:08:41 +0800</pubDate>
+      <pubDate>Mon, 18 Oct 2021 20:04:57 +0800</pubDate>
       
       <guid>https://www.gemc.club/tags/key-word/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>RF</title>
+      <link>https://www.gemc.club/tags/rf/</link>
+      <pubDate>Mon, 18 Oct 2021 20:04:57 +0800</pubDate>
+      
+      <guid>https://www.gemc.club/tags/rf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>关键字</title>
+      <link>https://www.gemc.club/tags/%E5%85%B3%E9%94%AE%E5%AD%97/</link>
+      <pubDate>Mon, 18 Oct 2021 20:04:57 +0800</pubDate>
+      
+      <guid>https://www.gemc.club/tags/%E5%85%B3%E9%94%AE%E5%AD%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>接口测试</title>
+      <link>https://www.gemc.club/tags/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Sun, 17 Oct 2021 18:56:05 +0800</pubDate>
+      
+      <guid>https://www.gemc.club/tags/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>自动化</title>
+      <link>https://www.gemc.club/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</link>
+      <pubDate>Sun, 17 Oct 2021 18:56:05 +0800</pubDate>
+      
+      <guid>https://www.gemc.club/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>selenium</title>
       <link>https://www.gemc.club/tags/selenium/</link>
-      <pubDate>Sat, 16 Oct 2021 20:08:41 +0800</pubDate>
+      <pubDate>Sun, 17 Oct 2021 16:12:40 +0800</pubDate>
       
       <guid>https://www.gemc.club/tags/selenium/</guid>
       <description></description>
@@ -32,18 +68,18 @@
     <item>
       <title>Web UI</title>
       <link>https://www.gemc.club/tags/web-ui/</link>
-      <pubDate>Sat, 16 Oct 2021 20:08:41 +0800</pubDate>
+      <pubDate>Sun, 17 Oct 2021 16:12:40 +0800</pubDate>
       
       <guid>https://www.gemc.club/tags/web-ui/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>关键字</title>
-      <link>https://www.gemc.club/tags/%E5%85%B3%E9%94%AE%E5%AD%97/</link>
-      <pubDate>Sat, 16 Oct 2021 20:08:41 +0800</pubDate>
+      <title>数据驱动</title>
+      <link>https://www.gemc.club/tags/%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8/</link>
+      <pubDate>Sun, 17 Oct 2021 16:12:40 +0800</pubDate>
       
-      <guid>https://www.gemc.club/tags/%E5%85%B3%E9%94%AE%E5%AD%97/</guid>
+      <guid>https://www.gemc.club/tags/%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8/</guid>
       <description></description>
     </item>
     
@@ -53,15 +89,6 @@
       <pubDate>Sat, 16 Oct 2021 15:34:51 +0800</pubDate>
       
       <guid>https://www.gemc.club/tags/testing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>自动化</title>
-      <link>https://www.gemc.club/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</link>
-      <pubDate>Sat, 16 Oct 2021 15:34:51 +0800</pubDate>
-      
-      <guid>https://www.gemc.club/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</guid>
       <description></description>
     </item>
     

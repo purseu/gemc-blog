@@ -10,7 +10,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Oct 2021 20:08:41 +0800</lastBuildDate><atom:link href="https://www.gemc.club/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Oct 2021 20:04:57 +0800</lastBuildDate><atom:link href="https://www.gemc.club/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rf_简介</title>
+      <link>https://www.gemc.club/posts/testing/autotest/robotframework/rf_%E7%AE%80%E4%BB%8B/</link>
+      <pubDate>Mon, 18 Oct 2021 20:04:57 +0800</pubDate>
+      
+      <guid>https://www.gemc.club/posts/testing/autotest/robotframework/rf_%E7%AE%80%E4%BB%8B/</guid>
+      <description>RF环境搭建 pip install -U robotframework 查看版本 robot &amp;ndash;version</description>
+    </item>
+    
+    <item>
+      <title>接口测试基础知识</title>
+      <link>https://www.gemc.club/posts/testing/interfaces/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</link>
+      <pubDate>Sun, 17 Oct 2021 18:56:05 +0800</pubDate>
+      
+      <guid>https://www.gemc.club/posts/testing/interfaces/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</guid>
+      <description>接口测试 百度百科的定义:
+ 接口测试是测试系统组件间接口的一种测试。接口测试主要用于检测外部系统与系统之间以及内部各个子系统之间的交互点。测试的重点是要检查数据的交换，传递和控制管理过程，以及系统间的相互逻辑依赖关系等
+ 什么是接口测试 在了解什么是接口测试之前，让我们先了解一下什么是接口。
+什么是接口 是指对协定进行定义的引用类型。接口就是规定要程序做什么，但不在其中实现。
+接口的分类 # http 1. post 2. get 3. delete 4. put 5. ... 接口测试流程 凡事预则立不预则废。不管做什么事情，都应该有一个规则流程。接口测试也同样如此。
+V模型  需求讨论 需求评审 场景设计 用例设计 数据准备 执行  设计测试用例的理由  理清思路，避免漏测 提高测试效率 跟进测试进度 测试报告 跟进重复性工作  用例设计  功能 逻辑业务 异常 安全  用例设计-功能用例设计  功能是否正常 功能是否按照接口文档实现  用例设计-逻辑用例设计  是否依赖业务  用例设计-异常用例设计  参数异常  关键字参数 参数为空 多、少参数 错误参数   数据异常  关键字数据 数据为空 长度不一致 错误数据    用例设计-安全用例设计  cookie header 唯一识别码  接口测试环境搭建 这里使用Python的第三方库：requests。这是一个非常成熟且热门的库。</description>
+    </item>
+    
+    <item>
+      <title>Selenium_数据驱动</title>
+      <link>https://www.gemc.club/posts/testing/autotest/selenium/selenium_%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8/</link>
+      <pubDate>Sun, 17 Oct 2021 16:12:40 +0800</pubDate>
+      
+      <guid>https://www.gemc.club/posts/testing/autotest/selenium/selenium_%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8/</guid>
+      <description>什么是数据驱动 从它的定义来看，就是数据的改变从而驱动自动化测试的执行，最终引起测试结果的改变。说的直白些，就是参数化的应用。
+自动化测试都是基于代码实现的，为了考虑到测试用例的复用性，会将测试数据与代码进行分离，然后基于数据的变动来实现各个流程的条件覆盖。
+数据驱动形式  Excel数据驱动 Yaml/Json/Py数据驱动  数据维护较为便利，数据结构直观   其他 txt、csv。。。  Excel数据驱动实现 xlwt/xlrd 已过时，目前 excel基本都是2010及以上，使用openpyxl进行操作
+实现方式  所有操作步骤+测试数据基于excel实现 只在excel中保存测试数据，测试步骤基于unittest、pytest实现  excel实现  打开文件 读取数据 测试  RF基于关键字驱动与数据驱动结合的自动化测试框架，能够兼容WebUI、APPUI和接口自动化测试。
+RF不需要编写代码，本身基于RF自定义的一种表格编写语法的形式来实现工具的自动化测试。</description>
+    </item>
+    
     <item>
       <title>Selenium(二): 关键字驱动</title>
       <link>https://www.gemc.club/posts/testing/autotest/selenium/selenium_%E5%85%B3%E9%94%AE%E5%AD%97%E9%A9%B1%E5%8A%A8/</link>

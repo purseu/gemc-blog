@@ -10,20 +10,20 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Oct 2021 20:08:41 +0800</lastBuildDate><atom:link href="https://www.gemc.club/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Oct 2021 20:04:57 +0800</lastBuildDate><atom:link href="https://www.gemc.club/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>selenium</title>
-      <link>https://www.gemc.club/categories/selenium/</link>
-      <pubDate>Sat, 16 Oct 2021 20:08:41 +0800</pubDate>
+      <title>RF</title>
+      <link>https://www.gemc.club/categories/rf/</link>
+      <pubDate>Mon, 18 Oct 2021 20:04:57 +0800</pubDate>
       
-      <guid>https://www.gemc.club/categories/selenium/</guid>
+      <guid>https://www.gemc.club/categories/rf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Testing</title>
       <link>https://www.gemc.club/categories/testing/</link>
-      <pubDate>Sat, 16 Oct 2021 20:08:41 +0800</pubDate>
+      <pubDate>Mon, 18 Oct 2021 20:04:57 +0800</pubDate>
       
       <guid>https://www.gemc.club/categories/testing/</guid>
       <description></description>
@@ -32,9 +32,36 @@
     <item>
       <title>自动化测试</title>
       <link>https://www.gemc.club/categories/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95/</link>
-      <pubDate>Sat, 16 Oct 2021 20:08:41 +0800</pubDate>
+      <pubDate>Mon, 18 Oct 2021 20:04:57 +0800</pubDate>
       
       <guid>https://www.gemc.club/categories/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>接口测试</title>
+      <link>https://www.gemc.club/categories/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Sun, 17 Oct 2021 18:56:05 +0800</pubDate>
+      
+      <guid>https://www.gemc.club/categories/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>自动化</title>
+      <link>https://www.gemc.club/categories/%E8%87%AA%E5%8A%A8%E5%8C%96/</link>
+      <pubDate>Sun, 17 Oct 2021 18:56:05 +0800</pubDate>
+      
+      <guid>https://www.gemc.club/categories/%E8%87%AA%E5%8A%A8%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>selenium</title>
+      <link>https://www.gemc.club/categories/selenium/</link>
+      <pubDate>Sun, 17 Oct 2021 16:12:40 +0800</pubDate>
+      
+      <guid>https://www.gemc.club/categories/selenium/</guid>
       <description></description>
     </item>
     
